@@ -1,0 +1,39 @@
+@charset "UTF-8";
+
+body {
+    background-color: rgba(127, 255, 212, 0.813);
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+    color: rgb(55, 111, 92);
+}
+h2 {
+    color: cadetblue;
+}
+#principal {
+    color: rgb(12, 45, 18);
+    text-align: center;
+    background-color: aqua;
+}
+.basico {
+    color: blueviolet;
+}
+.inter {
+    color: chartreuse;
+}
+.avan {
+    color: coral;
+}
+.lore {
+    color: darkblue;
+}
+.liri {
+    color: darkgoldenrod;
+}
+.loro {
+    color: darkcyan;
+}
+.luru {
+    color: darkred;
+
+}
